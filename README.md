@@ -7,5 +7,5 @@
 С моими учебными проектами можно ознакомиться в закреплённом репозитории "[MSU-Practice](https://github.com/dimaattt/MSU-Practice)".
 
 **Другие контакты:**
-* [Telegram](https://t.me/marlennl): @marlennl
+* Telegram: [@marlennl](https://t.me/marlennl)
 * E-mail: dimatsarenov@gmail.com
